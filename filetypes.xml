@@ -2,10 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="bytes" type="PLAIN_TEXT" />
-      <mapping ext="dll" type="PLAIN_TEXT" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping pattern="*.lua.txt" type="lua" />
-      <removed_mapping ext="dll" type="UNKNOWN" />
       <mapping pattern="*.lua.txt" type="Lua" />
     </extensionMap>
   </component>
