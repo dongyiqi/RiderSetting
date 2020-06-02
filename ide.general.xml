@@ -30,6 +30,5 @@
     <entry key="show.diff.preview.as.editor.tab" value="true" />
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
