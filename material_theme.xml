@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="highContrast" value="true" />
-    <option name="premium" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="false" />
@@ -9,5 +8,6 @@
     <option name="accentColor" value="48a7bc" />
     <option name="selectedTheme" value="PALENIGHT" />
     <option name="userId" value="-1055ff2e:16e62c848ef:-8000" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
