@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="Project 'MiniSG2.BattleLogic'" />
+    <option name="defaultScopeName" value="Project 'MiniSG2.BattleLogic'" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Project 'MiniSG2.BattleLogic'" />
   </component>
 </application>
