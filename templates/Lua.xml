@@ -1,5 +1,5 @@
 <templateSet group="Lua">
-  <template name="class" value="--class $CN$&#10;$CN$ = {}&#10;function $CN$:new(o)&#10;    o = o or {}&#10;    setmetatable(o, self)&#10;    return o&#10;end" description="classname:new() end" toReformat="false" toShortenFQNames="true">
+  <template name="class" value="--class $CN$&#10;$CN$ = {}&#10;function $CN$:new(o)&#10;    o = o or {}&#10;    setmetatable(o, self)&#10;    self.__index = self&#10;    return o&#10;end" description="classname:new() end" toReformat="false" toShortenFQNames="true">
     <variable name="CN" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="LUA_CODE" value="true" />
