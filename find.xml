@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Moment.Framework'" />
+    <option name="defaultScopeName" value="Project 'Moment.Framework'" />
+    <option name="SEARCH_SCOPE" value="Project 'Moment.Framework'" />
     <mask>*.lua.txt</mask>
     <mask>*.cs</mask>
   </component>
